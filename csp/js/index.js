@@ -1,5 +1,5 @@
 //const host = `ws://${ location.hostname }:57772`;
-const myName = "shrys";
+const myName = "jzr";
 const myAvatar = "http://nikita.tk/img/avatar.jpg";
 
 /*let URL = host + "/csp/user/WebCourse.ChatWebSocket.cls",
